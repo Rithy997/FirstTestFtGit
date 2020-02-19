@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private void justAppOneFun(){
         int i=0;
         int ii=1;
+        int iii=2;
     }
 
 }
